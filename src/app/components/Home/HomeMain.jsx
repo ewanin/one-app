@@ -4,7 +4,7 @@ import Banking from './Banking'
 import Walmart from './Walmart'
 import Testimonial from './Testimonial'
 import Stacks from './Stacks'
-import AboutOne from './aboutOne'
+import AboutOne from './AboutOne'
 import JoinToday from './JoinToday'
 
 const HomeMain = () => {
